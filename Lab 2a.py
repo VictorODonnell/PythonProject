@@ -16,6 +16,6 @@ print ("All the world's a stage, And all the men and women merely players: They 
 # flush=False: Program ends normally or buffering doesn’t matter, printing the final output of a calculation.
 
 #e
-#Using end="\n" makes print flush the output automatically.
+# Using end="\n" makes print flush the output automatically.
 
 # I had a lot of difficulty understanding what flush meant and even more so how it can be used
